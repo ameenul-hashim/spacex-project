@@ -1,0 +1,210 @@
+body{/*body of css*/
+    margin: 0;
+    background:black;
+   
+}
+.headlogo{/*head logo styles*/
+    width: 210px;
+    height:auto;
+    margin-left: 90px;
+    margin-top: 17px;
+    float: left;
+}
+.headerlogo-left{/*header logo left styling*/
+    background: black;
+        width: 20%;
+}
+.headerlogo-right{/* header logo right css */
+    width: 80%;
+    background:black;
+    float: left;
+    text-align: center;
+}
+UL{/*unordered list*/
+    list-style-type: none;
+    overflow: hidden;
+    color: WHITE;
+    font-size: 12px;
+    margin-top: 40px;
+    font-family:sans-serif;
+    font-weight: bolder;
+}
+li{/*ordered list*/
+    float: left;
+    padding: 10px;
+ font-size: 13px;   
+}
+#shop{/*shop and styling*/
+    margin-left: 230px;
+}
+.menuicon{/*menu icon rightside*/
+    width: 24px;
+    margin-right: 50px;
+    margin-top: 5px; 
+}
+.imagewrapper{/* image wrappwer and css*/
+    position:relative;
+    display: inline-block;
+}
+.imagewrapper h2 {/* image wrapper for h2 elements*/
+    position: absolute;
+    top: 45%;
+    margin-left: 100px;
+    transform: translate(-0,0);
+    color: white;
+    font-size: 48px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image1{/*image 1 and its css property*/
+     width: 100%;
+    height: 20%;
+}
+#button1{/*first button in css*/
+    margin-top: 170px;
+    font-size: 15px;
+    border: 1px solid white;
+    padding: 15px 35px 15px 35px;
+    
+    
+}
+.banner2{/*second banner*/
+    float: left;
+}
+.video1{/*video1 and its css*/
+    width: 100%;
+    height: 100%;
+}
+h1{/*h1 and css styling*/
+    color: white;
+    font-size: 48px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.banner2{/*second banner css */
+    position: relative;
+    display:inline-block;
+    width: 100%;
+}
+.banner2 h1,h2{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+#para1{
+    font-size: 20px;
+    line-height: 0.5px;
+}
+#button2{
+top:72%;
+left: 150px;
+color: white;
+font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid white;
+    padding:15px 45px 15px 45px
+}
+.banner3{
+    position: relative;
+  display:inline-block;
+    width: 100%;
+  height:800px;
+    object-fit: cover;
+}
+.banner3 h1,h2{
+    position: absolute;
+    top: 55%;
+    left: 5%;
+}
+.para2{
+     font-size: 20px;
+    line-height: 0.15px;
+}
+#button3{
+ top:70%;
+color: white;
+font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid white;
+    padding:15px 55px 15px 55px;
+}
+.banner4{
+     position: relative;
+  display:inline-block;
+    width: 100%;
+   height: 750PX;
+}
+.banner4 h1{
+position: absolute;
+top: 55%;
+left: 80px;
+}
+#para3{
+     font-size:24px;
+  line-height: 0.15px;
+}
+#button4{
+     top:73%;
+color: white;
+font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid white;
+    padding:15px 55px 15px 55px;
+}
+.banner5{
+     position: relative;
+  display:inline-block;
+    width: 100%;
+   height: 800PX;
+}
+.banner5 h1{
+position: absolute;
+top: 55%;
+left: 80px;
+}
+#para4{/*id para css styling*/
+     font-size:24px;
+  line-height: 0.15px;
+}
+#button5{/*button5 css styling*/
+     top:79%;
+color: white;
+font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid white;
+    padding:15px 55px 15px 55px;
+}
+.banner6{/*banner 6 css styling*/
+     position: relative;
+  display:inline-block;
+    width: 100%;
+   height: 800PX;
+   object-fit: cover;
+}
+.banner6 h1{/*banner 6 h1 css styling*/
+position: absolute;
+top: 55%;
+left: 80px;
+}
+#button6{/*button 6*/
+    left: 100px;
+     top:74%;
+color: white;
+font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid white;
+    padding:15px 35px 15px 35px;
+}
+ol {/*ordered list*/
+margin-inline: 500px;
+}
+.footer1{/*footer1 css styling*/
+  color: white; 
+  list-style-type: none;
+  margin-bottom: 10px;
+  padding-inline: 20px;
+      font: Arial, Verdana, sans-serif;
+}
+/*end of the css code*/
+/*end of the css code*/
+/*end of the css code*/
+/*end of the css code*/
+/*end of the css code*/
